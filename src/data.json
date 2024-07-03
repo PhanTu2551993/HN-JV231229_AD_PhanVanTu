@@ -1,0 +1,87 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productName": "Macbook",
+            "price": 12000000,
+            "image": "https://cdn.tgdd.vn/Products/Images/44/231244/macbook-air-m1-2020-gray-600x600.jpg",
+            "stock": 10
+        },
+        {
+            "id": 2,
+            "productName": "Iphone 13 Pro max",
+            "price": 13000000,
+            "image": "https://www.dslr-zone.com/wp-content/uploads/2021/10/6-1-768x768.jpeg",
+            "stock": 5
+        },
+        {
+            "id": 3,
+            "productName": "Samsung Galaxy S20",
+            "price": 18000000,
+            "image": "https://cdn.xtmobile.vn/vnt_upload/product/12_2021/thumbs/(600x600)_crop_s20-5g.jpg",
+            "stock": 5
+        },
+        {
+            "id": 4,
+            "productName": "Sony WH-CH720N ",
+            "price": 5000000,
+            "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/wh-ch720_Primary_image?$categorypdpnav$&fmt=png-alpha",
+            "stock": 15
+        },
+        {
+            "id": 5,
+            "productName": "Iphone 14 Pro max",
+            "price": 27000000,
+            "image": "https://tse3.mm.bing.net/th?id=OIP.jQVyc1gg0eHY2JCLFX1gfQHaJ3&pid=Api&P=0&h=180",
+            "stock": 11
+        }, {
+            "id": 6,
+            "productName": "Laptop Asus Vivobook Go 15",
+            "price": 15000000,
+            "image": "https://cdn.tgdd.vn/Products/Images/44/311178/asus-vivobook-go-15-e1504fa-r5-nj776w-thumb-600x600.jpg",
+            "stock": 7
+        },
+        {
+            "id": 7,
+            "productName": "Iphone 15 Pro max",
+            "price": 30000000,
+            "image": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+            "stock": 9
+        },
+        {
+            "id": 8,
+            "productName": "Iphone 15 Pro max",
+            "price": 30000000,
+            "image": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+            "stock": 5
+        },
+        {
+            "id": 9,
+            "productName": "Iphone 15 Pro max",
+            "price": 30000000,
+            "image": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+            "stock": 5
+        },
+        {
+            "id": 10,
+            "productName": "Iphone 15 Pro max",
+            "price": 30000000,
+            "image": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+            "stock": 5
+        },
+        {
+            "id": 11,
+            "productName": "Iphone 15 Pro max",
+            "price": 30000000,
+            "image": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+            "stock": 5
+        },
+        {
+            "id": 12,
+            "productName": "Iphone 15 Pro max",
+            "price": 30000000,
+            "image": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+            "stock": 5
+        }
+    ]
+}
